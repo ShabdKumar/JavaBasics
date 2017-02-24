@@ -128,7 +128,7 @@ public class Called {
 		public static String twice(int num) {
 			String result = "";
 			
-			for(int i=1;i<=2;i++)
+			for(int i=1 ;i<=2 ;i++)
 				result+=num;
 			return result;
 			
